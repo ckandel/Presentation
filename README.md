@@ -1,9 +1,10 @@
 Thank you everyone who came to this year's Python: Advanced Topics talk! Please feel free to reach out to me if you have any questions or recommendations about the presentation-- or Python/arcpy -- at aortego@esri.com.
 
-# Presentation
-All presentation materials for Esri's 2018 UC, "Python: Advanced Topics". Please note that all examples were shown using Python 3, but they should work for Python 2 as well.
+This repository contains all of the presentation material for Esri's 2018 UC, "Python: Advanced Topics". Please note that all examples were shown using Python 3, but they should work for Python 2 as well.
 
-## Excellent resources for learning Python and ArcPy
+In addition, I've included a few links which will help you learn more about Python and arcpy, as well as answers to some of the questions I received. Enjoy!
+
+## Resources for learning Python and ArcPy
 https://github.com/AlexArcPy/python-for-gis-progression-path
 
 ## Installing Jupyter
